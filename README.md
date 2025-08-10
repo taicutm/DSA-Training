@@ -19,9 +19,12 @@ Repo này là nơi để luyện tập và nâng cao kỹ năng về **Danh Sác
 ## Bài tập hôm nay
 
 ### Bài 1
+
 Nhập vào một số nguyên dương **n**, và **n** số nguyên lần lượt là các phần tử trong dãy **a**.  
 Hãy thay đổi giá trị của mỗi phần tử thành bình phương của chính nó, sau đó in mảng đó ra màn hình (mỗi phần tử cách nhau bởi một khoảng trắng).
-
+Ví dụ : 
+ - Với n = 4 và a = [1, 3, 5, -3] thì kết quả mong muốn là: "1 9 25 9 ".
+ - Với n = 4 và a = [1, 2, 3, 4] thì kết quả mong muốn là: "1 4 9 16 ".
 ---
 
 ### Bài 2
@@ -76,6 +79,16 @@ Ví dụ:
 ### Bài 6
 Nhập vào một số nguyên dương **n**, tiếp theo là **n** số nguyên dương lần lượt là các phần tử của một dãy số.  
 Hãy **đếm tần số** (số lần xuất hiện) của các số trong dãy và in ra màn hình theo dạng:  
+
+a1 - t1; a2 - t2; ... an - tn;
+
+Trong đó:  
+- `t1` là số lần xuất hiện của số `a1`, `t2` là số lần xuất hiện của số `a2`, ...  
+- `a1, a2, ..., an` **không trùng nhau** và được **sắp xếp tăng dần**.
+
+Ví dụ:  
+- Với **a = [4, 2, 2, 5, 6, 5]** thì kết quả là:  
+  `2 - 2; 4 - 1; 5 - 2; 6 - 1; `
 
 
 
