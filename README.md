@@ -80,7 +80,7 @@ Ví dụ:
 Nhập vào một số nguyên dương **n**, tiếp theo là **n** số nguyên dương lần lượt là các phần tử của một dãy số.  
 Hãy **đếm tần số** (số lần xuất hiện) của các số trong dãy và in ra màn hình theo dạng:  
 
-a1 - t1; a2 - t2; ... an - tn;
+`a1 - t1; a2 - t2; ... an - tn;`
 
 Trong đó:  
 - `t1` là số lần xuất hiện của số `a1`, `t2` là số lần xuất hiện của số `a2`, ...  
