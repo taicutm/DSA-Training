@@ -1,4 +1,8 @@
-# DSS-Training
+## Cách sử dụng
+- Clone repo về máy:
+  ```bash
+  git clone https://github.com/taicutm/DSS-Training.git
+# DSA-Training
 
 Repo này là nơi để luyện tập và nâng cao kỹ năng về **Danh Sách, Cấu Trúc Dữ Liệu và Thuật Toán (DSS)**.
 
@@ -37,7 +41,43 @@ Ví dụ:
 
 ---
 
-## Cách sử dụng
-- Clone repo về máy:
-  ```bash
-  git clone https://github.com/taicutm/DSS-Training.git
+### Bài 4
+Nhập vào một số nguyên dương **n**, và **n** số nguyên lần lượt là các phần tử trong dãy **a**.  
+Tiếp theo nhập vào số nguyên **k** (**0 ≤ k < n**).  
+
+Hãy xóa phần tử có **chỉ số** `k` trong dãy.  
+In mảng kết quả ra màn hình, sau mỗi phần tử có đúng một khoảng trắng.
+
+Ví dụ:  
+- Với **n = 4**, **a = [1, 2, 3, 4]**, **k = 1** thì kết quả là:  
+  `1 3 4 `  
+- Với **n = 3**, **a = [1, 2, 3]**, **k = 2** thì kết quả là:  
+  `1 2 `  
+
+---
+
+### Bài 5
+Nhập vào một số nguyên dương **n**, và **n** số nguyên lần lượt là các phần tử trong dãy **a**.  
+Hãy in lần lượt các **số nguyên tố** có trong dãy **a** ra màn hình, sau mỗi phần tử có đúng một khoảng trắng.  
+
+> **Số nguyên tố** là số nguyên dương có đúng 2 ước: 1 và chính nó.  
+> Số **a** được gọi là ước của **b** nếu **b** chia hết cho **a**.
+
+Biết rằng dãy sẽ có **ít nhất một số nguyên tố**.
+
+Ví dụ:  
+- Với **n = 4**, **a = [1, 2, 3, 4]** thì kết quả là:  
+  `2 3 `  
+- Với **n = 3**, **a = [7, 2, 3]** thì kết quả là:  
+  `7 2 3 `  
+
+---
+
+### Bài 6
+Nhập vào một số nguyên dương **n**, tiếp theo là **n** số nguyên dương lần lượt là các phần tử của một dãy số.  
+Hãy **đếm tần số** (số lần xuất hiện) của các số trong dãy và in ra màn hình theo dạng:  
+
+
+
+
+
